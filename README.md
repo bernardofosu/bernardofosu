@@ -1,10 +1,14 @@
 ## Hi I'm Bernard Ofosu 👋
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
-👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand
-🎨 Making videos about Computer Science, tech, and productivity on YouTube
-🌷 #learninginpublic in my digital garden
-💭 Currently learning about data analytics and dataviz! 
+👋 Hello! I'm a passionate IT professional with a diverse skill set that includes Python, Splunk, and Linux commands. I have experience working with Splunk Enterprise, AWS EC2 and enjoy utilizing Adobe tools like Photoshop and Premiere Pro. I also have a good knowledge in JavaScript, C, and Bash scripting.  
+
+📐 I specialize in planning and designing solutions that address real-life problems, ensuring that my work is both effective and user-friendly.  
+
+📚 As a teacher, I love sharing my knowledge of Splunk, Python, and Photoshop with others, helping them to navigate and master these powerful tools.  
+
+🔧 My true passion lies in solving IT problems, and I'm always eager to tackle new challenges. Let’s connect and collaborate on exciting projects!
+
+
 
 <!--
 **bernardofosu/bernardofosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
