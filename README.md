@@ -10,7 +10,7 @@
 
 ⚡I'm a passionate IT professional with a diverse skill set that includes Python, Splunk, and Linux commands. I have experience working with Splunk Enterprise, AWS EC2 and enjoy utilizing Adobe tools like Photoshop and Premiere Pro. I also have a good knowledge in JavaScript, C, and Bash scripting.<br><br>📐 I specialize in planning and designing solutions that address real-life problems, ensuring that my work is both effective and user-friendly.<br><br>📚 As a teacher, I love sharing my knowledge of Splunk, Python, and Photoshop with others, helping them to navigate and master these powerful tools.<br><br>🔧 My true passion lies in solving IT problems, and I'm always eager to tackle new challenges. Let’s connect and collaborate on exciting projects!<br><br>💭 Currently learning about [Docker](https://www.docker.com/), [Nginx](https://nginx.org/en/), [Selenium](https://www.selenium.dev/) and [dataviz](https://pudding.cool/2018/08/pockets/)
 
-📫 How to reach me **bernard.ofosu@swma.gov.gh**, **+233-548-967-019** and **ofosubernard848@gmail.com**
+📫 How to reach me **bernard.ofosu@swma.gov.gh**
 
 ## 🌐 Socials:
 <!--[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@onlineschoolofcreativity-l769)-->
@@ -18,10 +18,16 @@
  <!-- <a href="mailto:ofosubernard848@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a> -->
-  
+
 <div align="center"> 
-  <a href="ofosubernard848@gmail.com">
+ <a href="https://wa.me/+233-548-967-019">
+    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" />
+ </a>
+  <a href="mailto:ofosubernard848@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="mailto:bernard.ofosu@swma.gov.gh">
+    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" />
   </a>
   <a href="https://linkedin.com/in/bernard-ofosu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
