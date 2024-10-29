@@ -1,4 +1,13 @@
-## Hi I'm Bernard Ofosu 👋
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> -->
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Bernard+Ofosu!;" />
+</h1>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,aws,bootstrap,photoshop,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=nginx,javascript,firebase,mongodb,c,mysql" /><br>
+</div>
 
 # 💫 About Me:
 ## 👯 Splunk Administrator, Splunk Architect, Graphic Designer and Python Developer 
