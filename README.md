@@ -11,8 +11,8 @@
 ⚡I'm a passionate IT professional with a diverse skill set that includes Python, Splunk, and Linux commands. I have experience working with Splunk Enterprise, AWS EC2 and enjoy utilizing Adobe tools like Photoshop and Premiere Pro. I also have a good knowledge in JavaScript, C, and Bash scripting.<br><br>📐 I specialize in planning and designing solutions that address real-life problems, ensuring that my work is both effective and user-friendly.<br><br>📚 As a teacher, I love sharing my knowledge of Splunk, Python, and Photoshop with others, helping them to navigate and master these powerful tools.<br><br>🔧 My true passion lies in solving IT problems, and I'm always eager to tackle new challenges. Let’s connect and collaborate on exciting projects!<br><br>💭 Currently learning about [Docker](https://www.docker.com/), [Nginx](https://nginx.org/en/), [Selenium](https://www.selenium.dev/) and [dataviz](https://pudding.cool/2018/08/pockets/)
 
 📫 How to reach me **bernard.ofosu@swma.gov.gh**
-
-## 🌐 Socials:
+<hr/>
+<!--## 🌐 Socials:-->
 <!--[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@onlineschoolofcreativity-l769)-->
 
  <!-- <a href="mailto:ofosubernard848@gmail.com">
@@ -36,7 +36,8 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-***
+<hr/>
+
 <div align="center">
 <h1>💻 Tech Stack:</h1>
 </div>
@@ -45,6 +46,7 @@
     <img src="https://skillicons.dev/icons?i=regex,pycharm,gcp,nginx,latex,markdown,javascript,firebase,mongodb,c,mysql,pr,sublime" /><br>
 </div>
 
+<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
