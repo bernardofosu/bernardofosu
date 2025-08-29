@@ -22,7 +22,14 @@
 <!-- ⚡I'm a passionate IT professional with a diverse skill set that includes Python, Splunk, and Linux commands. I have experience working with Splunk Enterprise, AWS EC2, Pandas, Streamlit, QGIS and enjoy utilizing Adobe tools like Photoshop and Premiere Pro. I also have a good knowledge in JavaScript, C, and Bash scripting.<br><br>📐 I specialize in planning and designing solutions that address real-life problems, ensuring that my work is both effective and user-friendly.<br><br>📚 As a teacher, I love sharing my knowledge of Splunk, Python, and Photoshop with others, helping them to navigate and master these powerful tools.<br><br>🔧 My true passion lies in solving IT problems, and I'm always eager to tackle new challenges. Let’s connect and collaborate on exciting projects!<br><br>💭 Currently learning about [Docker](https://www.docker.com/), [Nginx](https://nginx.org/en/), [Selenium](https://www.selenium.dev/) and [dataviz](https://pudding.cool/2018/08/pockets/)  -->
 ⚡Splunk Certified Administrator with 6+ years of experience architecting, managing, and migrating enterprise-grade Splunk environments (Splunk Enterprise, Cloud, and Enterprise Security). Skilled in SPL, data normalization, ingestion, dashboarding, alerting, and automation. Designed secure, scalable monitoring for hybrid infrastructures using Prometheus, Splunk, ELK Stack, and Cribl for data routing and optimization, including integration with Palo Alto firewalls, switches, load balancers, routers, and syslog servers to improve observability and security insights. Managed infrastructure across on-premise, AWS, Azure, and GCP using Kubernetes, Docker, Jenkins, Git, Terraform, and Ansible. Proficient in Windows/Linux system administration and workflow automation with Python, Go, Bash, and PowerShell. Expert in security investigation, developing strategic security ideals, and improving visibility through regex, XML, and actionable dashboards and alerts. Supported 10+ business units, enhancing observability and security posture. Seeking a Splunk Engineer/Admin role to strengthen observability, threat prevention, and data-driven security operations.
 
-📫 How to reach me **bernard.ofosu@swma.gov.gh**  [Mobile Number](+233-548-967-019)(+233-548-967-019)
+📫 How to reach me **ofosubernard848@gmail.com/bernard.ofosu@swma.gov.gh**  [Mobile Number](+233-548-967-019)(+233-548-967-019)
+
+## 🎓 Certifications
+
+[![Udemy Certificate](https://img.shields.io/badge/Udemy-Python%20100%20Days%20of%20Code-blue?logo=udemy)](https://www.udemy.com/certificate/UC-edcf9729-6bfd-43ce-8816-04bfa40390cf/)
+
+[![Cribl Certificate](https://img.shields.io/badge/Cribl-Certified%20User-green?logo=checkmarx)](https://certifications.cribl.io/profile/ofosubernard852476/wallet)
+
 <hr/>
 
 <div align="center"> 
