@@ -6,9 +6,9 @@
 
 
 # 💫 About Me:
-<!--
+
 Senior Cloud DEVOPS Engineer, Splunk Administrator, Splunk Architect, Python and Nodejs Backend Developer
--->
+<!--
 ### 🚀 Senior Cloud DevOps / Platform Engineer
 - 6+ years experience across AWS, Azure & Kubernetes
 - CI/CD: Jenkins, GitHub Actions, GitLab CI, Azure DevOps
@@ -16,7 +16,7 @@ Senior Cloud DEVOPS Engineer, Splunk Administrator, Splunk Architect, Python and
 - Observability: Splunk Architect, Prometheus, Grafana
 - Infrastructure as Code: Terraform, Ansible
 - Python and Nodejs Backend Developer
-
+-->
 <p align="justify">
 ⚡ Senior Cloud DevOps Engineer with 6+ years of experience designing, deploying, and operating secure, scalable cloud and hybrid infrastructures. Proven expertise in building and automating CI/CD pipelines, containerized platforms, and cloud-native observability stacks across AWS, Azure, and GCP. Strong background in infrastructure as code (Terraform, Ansible), container orchestration (Kubernetes, Docker), and automation using Python, Go, Node.js, Bash, and PowerShell.
 
