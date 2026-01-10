@@ -16,8 +16,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs) -->
 
 # 💫 About Me:
-## ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) Splunk Administrator, Splunk Architect, DEVSECOPS Engineer, Python and Nodejs Backend Developer 
-
+Senior Cloud DEVOPS Engineer, Splunk Administrator, Splunk Architect, Python and Nodejs Backend Developer 
 
 <!-- ⚡I'm a passionate IT professional with a diverse skill set that includes Python, Splunk, and Linux commands. I have experience working with Splunk Enterprise, AWS EC2, Pandas, Streamlit, QGIS and enjoy utilizing Adobe tools like Photoshop and Premiere Pro. I also have a good knowledge in JavaScript, C, and Bash scripting.<br><br>📐 I specialize in planning and designing solutions that address real-life problems, ensuring that my work is both effective and user-friendly.<br><br>📚 As a teacher, I love sharing my knowledge of Splunk, Python, and Photoshop with others, helping them to navigate and master these powerful tools.<br><br>🔧 My true passion lies in solving IT problems, and I'm always eager to tackle new challenges. Let’s connect and collaborate on exciting projects!<br><br>💭 Currently learning about [Docker](https://www.docker.com/), [Nginx](https://nginx.org/en/), [Selenium](https://www.selenium.dev/) and [dataviz](https://pudding.cool/2018/08/pockets/)  -->
 
@@ -28,12 +27,47 @@
  -->
 
 <p align="justify">
-⚡ Cloud DevOps Engineer with 6+ years of experience designing, deploying, and operating secure, scalable cloud and hybrid infrastructures. Proven expertise in building and automating CI/CD pipelines, containerized platforms, and cloud-native observability stacks across AWS, Azure, and GCP. Strong background in infrastructure as code (Terraform, Ansible), container orchestration (Kubernetes, Docker), and automation using Python, Go, Node.js, Bash, and PowerShell.
+⚡ Senior Cloud DevOps Engineer with 6+ years of experience designing, deploying, and operating secure, scalable cloud and hybrid infrastructures. Proven expertise in building and automating CI/CD pipelines, containerized platforms, and cloud-native observability stacks across AWS, Azure, and GCP. Strong background in infrastructure as code (Terraform, Ansible), container orchestration (Kubernetes, Docker), and automation using Python, Go, Node.js, Bash, and PowerShell.
 
 Experienced in implementing end-to-end monitoring, logging, and alerting solutions using Splunk Enterprise/Cloud, Prometheus, ELK Stack, and Cribl to optimize data pipelines, reduce costs, and improve system reliability. Skilled in integrating cloud and on-prem systems with network devices, firewalls, load balancers, and syslog sources to enhance visibility, performance, and security.
 
 Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline design with Jenkins, GitHub Actions, and GitLab CI/CD, cloud resource provisioning, and operational excellence. Adept at supporting multiple business units, improving uptime, accelerating deployments, and strengthening security posture through automation, observability, and data-driven insights. Seeking a Cloud DevOps Engineer / DevSecOps role to drive reliability, scalability, and security in modern cloud environments.
 </p>
+
+## 🔭 Work & Collaboration
+
+**🚀 I’m currently working on:**  
+- Architecting and operating **enterprise-grade, cloud-native platforms** using **AWS, Azure, Kubernetes, and Docker**, with extensive use of **Infrastructure as Code (Terraform, Ansible)**.  
+- Designing and maintaining **observability and monitoring platforms** using **Splunk, Prometheus, and Grafana** to improve system reliability, performance, and security visibility.
+
+**🤝 I’m looking to collaborate on:**  
+- **Senior-level Cloud DevOps and Platform Engineering projects**, including open-source tools, **CI/CD platform engineering**, cloud automation, **observability-driven DevOps**, and cost optimization initiatives.
+
+**🧩 I’m looking for help with:**  
+- **Multi-cloud and hybrid cloud architectures**, large-scale **Kubernetes platform design**, **Site Reliability Engineering (SRE)** practices, and enterprise-level infrastructure automation.
+
+**🌱 I’m currently learning:**  
+- **Advanced Kubernetes orchestration and security**,  
+- **Terraform best practices and modular Infrastructure as Code design**,  
+- **Azure Administrator (AZ-104)** and cloud governance frameworks.
+
+**💬 Ask me about:**  
+- **AWS & Azure cloud architecture**,  
+- **Kubernetes, Docker, and container security**,  
+- **CI/CD pipelines (Jenkins, GitHub Actions, GitLab CI/CD)**,  
+- **Observability with Splunk, Prometheus, and Grafana**,  
+- **Infrastructure as Code (Terraform, Ansible)**,  
+- **Automation & coding with Python, Node.js, Go**, and **n8n AI-powered workflow automation**.
+
+**📫 How to reach me:**  
+- 📧 george.koufiee@gmail.com
+
+**👨‍💻 All of my projects are available at:**  
+- 🔗 [GitHub Portfolio](https://github.com/bernardofosu?tab=repositories)
+
+**⚡ Fun Fact:**  
+- I automate everything — and then **automate the automation** 😄⚙️
+
 
 📫 How to reach me **ofosubernard848@gmail.com/bernard.ofosu@swma.gov.gh**  [Mobile Number](+233-548-967-019)(+233-548-967-019)
 
@@ -44,6 +78,43 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
 [![Cribl Certificate](https://img.shields.io/badge/Cribl-Certified%20User-green?logo=checkmarx)](https://certifications.cribl.io/profile/ofosubernard852476/wallet)
 
 <hr/>
+
+## 🧰 Skills
+
+**Programming & Scripting:**  
+`Python` • `Go (Golang)` • `Node.js` • `JavaScript` • `Bash` • `Shell` • `PowerShell`
+
+**Cloud Platforms & Services:**  
+`AWS` • `Azure` • `GCP` • `EC2` • `VPC` • `IAM` • `S3` • `RDS` • `EKS` • `AKS` • `CloudWatch` • `Azure Monitor`
+
+**Containers & Orchestration:**  
+`Docker` • `Kubernetes` • `Helm` • `Kustomize` • `Container Security` • `Ingress Controllers`
+
+**Infrastructure as Code (IaC):**  
+`Terraform` • `Ansible` • `CloudFormation` • `ARM Templates` • `Modular IaC Design`
+
+**CI/CD & Platform Engineering:**  
+`Jenkins` • `GitHub Actions` • `GitLab CI/CD` • `CI/CD Pipelines` • `Release Automation` • `Pipeline Security`
+
+**Monitoring, Logging & Observability:**  
+`Splunk` • `Prometheus` • `Grafana` • `ELK Stack` • `OpenTelemetry` • `Alerting & Dashboards`
+
+**Automation & Workflow Orchestration:**  
+`n8n` • `AI Automation` • `API Integrations` • `Event-driven Automation` • `Webhook Systems`
+
+**Security & DevSecOps:**  
+`IAM & RBAC` • `Secrets Management` • `Vault` • `Security Monitoring` • `Compliance Automation` • `Threat Detection`
+
+**Networking & Systems:**  
+`Linux` • `Windows Server` • `TCP/IP` • `DNS` • `Load Balancers` • `Firewalls` • `Syslog`
+
+**Databases & Data Stores:**  
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Cloud Databases`
+
+**Version Control & Collaboration:**  
+`Git` • `GitHub` • `GitLab` • `Bitbucket` • `Code Reviews` • `Agile/Scrum`
+
+
 
 <div align="center"> 
  <a href="https://wa.me/+233-548-967-019">
