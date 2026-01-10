@@ -6,14 +6,16 @@
 
 
 # 💫 About Me:
+<!--
 Senior Cloud DEVOPS Engineer, Splunk Administrator, Splunk Architect, Python and Nodejs Backend Developer
-
+-->
 ### 🚀 Senior Cloud DevOps / Platform Engineer
 - 6+ years experience across AWS, Azure & Kubernetes
 - CI/CD: Jenkins, GitHub Actions, GitLab CI, Azure DevOps
 - DevSecOps: Vault, OWASP, SonarQube, Trivy
 - Observability: Splunk Architect, Prometheus, Grafana
 - Infrastructure as Code: Terraform, Ansible
+- Python and Nodejs Backend Developer
 
 <p align="justify">
 ⚡ Senior Cloud DevOps Engineer with 6+ years of experience designing, deploying, and operating secure, scalable cloud and hybrid infrastructures. Proven expertise in building and automating CI/CD pipelines, containerized platforms, and cloud-native observability stacks across AWS, Azure, and GCP. Strong background in infrastructure as code (Terraform, Ansible), container orchestration (Kubernetes, Docker), and automation using Python, Go, Node.js, Bash, and PowerShell.
@@ -48,17 +50,18 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
 - **Infrastructure as Code (Terraform, Ansible)**,  
 - **Automation & coding with Python, Node.js, Go**, and **n8n AI-powered workflow automation**.
 
+<!--
 **📫 How to reach me:**  
 - 📧 ofosubernard848@gmail.com
 
 **👨‍💻 All of my projects are available at:**  
 - 🔗 [GitHub Portfolio](https://github.com/bernardofosu?tab=repositories)
-
+-->
 **⚡ Fun Fact:**  
 - I automate everything — and then **automate the automation** 😄⚙️
 
 
-📫 How to reach me **ofosubernard848@gmail.com/bernard.ofosu@swma.gov.gh**  [Mobile Number](+233-548-967-019)(+233-548-967-019)
+📫 How to reach me **ofosubernard848@gmail.com/bernard.ofosu@swma.gov.gh** 🔗 [GitHub Portfolio](https://github.com/bernardofosu?tab=repositories) [Mobile Number](+233-548-967-019)(+233-548-967-019)
 
 ## 🎓 Certifications
 
@@ -103,7 +106,7 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
 ### 🤝 Version Control & Collaboration
 `Git` • `GitHub` • `GitLab` • `Bitbucket` • `Code Reviews` • `Agile/Scrum`
 
-## 🏆 Selected Personal Cloud & DevOps Projects (GitHub Portfolio)
+## 🏆 Selected Personal Cloud & DevOps Projects
 Designed and implemented multiple end-to-end cloud, CI/CD, DevSecOps, observability, and secrets-management projects using AWS, Azure, Kubernetes, Jenkins, Azure DevOps, GitHub Actions, GitLab CI, HashiCorp Vault, and Splunk. All projects were independently built, deployed, secured, and documented to production standards.
 
 ### 1️⃣ Jenkins-Driven End-to-End Cloud DevOps Mega Project (AWS EKS)
