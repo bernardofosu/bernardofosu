@@ -20,8 +20,19 @@
 
 
 <!-- ⚡I'm a passionate IT professional with a diverse skill set that includes Python, Splunk, and Linux commands. I have experience working with Splunk Enterprise, AWS EC2, Pandas, Streamlit, QGIS and enjoy utilizing Adobe tools like Photoshop and Premiere Pro. I also have a good knowledge in JavaScript, C, and Bash scripting.<br><br>📐 I specialize in planning and designing solutions that address real-life problems, ensuring that my work is both effective and user-friendly.<br><br>📚 As a teacher, I love sharing my knowledge of Splunk, Python, and Photoshop with others, helping them to navigate and master these powerful tools.<br><br>🔧 My true passion lies in solving IT problems, and I'm always eager to tackle new challenges. Let’s connect and collaborate on exciting projects!<br><br>💭 Currently learning about [Docker](https://www.docker.com/), [Nginx](https://nginx.org/en/), [Selenium](https://www.selenium.dev/) and [dataviz](https://pudding.cool/2018/08/pockets/)  -->
+
+<!-- 
 <p align="justify">
 ⚡ Splunk Certified Administrator with 6+ years of experience architecting, managing, and migrating enterprise-grade Splunk environments (Splunk Enterprise, Cloud, and Enterprise Security). Skilled in SPL, data normalization, ingestion, dashboarding, alerting, and automation. Designed secure, scalable monitoring for hybrid infrastructures using Prometheus, Splunk, ELK Stack, and Cribl for data routing and optimization, including integration with Palo Alto firewalls, switches, load balancers, routers, and syslog servers to improve observability and security insights. Managed and provisioned infrastructure across on-premises, AWS, Azure, and GCP using Kubernetes, Docker, Jenkins, Git, GitHub Actions, GitLab CI/CD, Terraform, and Ansible. Proficient in Windows/Linux system administration and workflow automation with Python, Go, Node.js, Bash, and PowerShell. Expert in security investigation, developing strategic security ideas, and improving visibility through regex, XML, and actionable dashboards and alerts. Supported 10+ business units, enhancing observability and security posture. Seeking a Splunk Engineer/Admin or DevOps/DevSecOps role to strengthen observability, threat prevention, and data-driven security operations.
+</p>
+ -->
+
+<p align="justify">
+⚡ Cloud DevOps Engineer with 6+ years of experience designing, deploying, and operating secure, scalable cloud and hybrid infrastructures. Proven expertise in building and automating CI/CD pipelines, containerized platforms, and cloud-native observability stacks across AWS, Azure, and GCP. Strong background in infrastructure as code (Terraform, Ansible), container orchestration (Kubernetes, Docker), and automation using Python, Go, Node.js, Bash, and PowerShell.
+
+Experienced in implementing end-to-end monitoring, logging, and alerting solutions using Splunk Enterprise/Cloud, Prometheus, ELK Stack, and Cribl to optimize data pipelines, reduce costs, and improve system reliability. Skilled in integrating cloud and on-prem systems with network devices, firewalls, load balancers, and syslog sources to enhance visibility, performance, and security.
+
+Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline design with Jenkins, GitHub Actions, and GitLab CI/CD, cloud resource provisioning, and operational excellence. Adept at supporting multiple business units, improving uptime, accelerating deployments, and strengthening security posture through automation, observability, and data-driven insights. Seeking a Cloud DevOps Engineer / DevSecOps role to drive reliability, scalability, and security in modern cloud environments.
 </p>
 
 📫 How to reach me **ofosubernard848@gmail.com/bernard.ofosu@swma.gov.gh**  [Mobile Number](+233-548-967-019)(+233-548-967-019)
