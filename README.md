@@ -5,26 +5,15 @@
 </h1>
 
 
-<!-- [![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/giswqs?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/giswqs)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=vmml4_0AAAAJ&hl=en)
-[![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/Qiusheng.Wu)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@giswqs)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/giswqs)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
-[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/giswqs)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs) -->
-
 # 💫 About Me:
-Senior Cloud DEVOPS Engineer, Splunk Administrator, Splunk Architect, Python and Nodejs Backend Developer 
+Senior Cloud DEVOPS Engineer, Splunk Administrator, Splunk Architect, Python and Nodejs Backend Developer
 
-<!-- ⚡I'm a passionate IT professional with a diverse skill set that includes Python, Splunk, and Linux commands. I have experience working with Splunk Enterprise, AWS EC2, Pandas, Streamlit, QGIS and enjoy utilizing Adobe tools like Photoshop and Premiere Pro. I also have a good knowledge in JavaScript, C, and Bash scripting.<br><br>📐 I specialize in planning and designing solutions that address real-life problems, ensuring that my work is both effective and user-friendly.<br><br>📚 As a teacher, I love sharing my knowledge of Splunk, Python, and Photoshop with others, helping them to navigate and master these powerful tools.<br><br>🔧 My true passion lies in solving IT problems, and I'm always eager to tackle new challenges. Let’s connect and collaborate on exciting projects!<br><br>💭 Currently learning about [Docker](https://www.docker.com/), [Nginx](https://nginx.org/en/), [Selenium](https://www.selenium.dev/) and [dataviz](https://pudding.cool/2018/08/pockets/)  -->
-
-<!-- 
-<p align="justify">
-⚡ Splunk Certified Administrator with 6+ years of experience architecting, managing, and migrating enterprise-grade Splunk environments (Splunk Enterprise, Cloud, and Enterprise Security). Skilled in SPL, data normalization, ingestion, dashboarding, alerting, and automation. Designed secure, scalable monitoring for hybrid infrastructures using Prometheus, Splunk, ELK Stack, and Cribl for data routing and optimization, including integration with Palo Alto firewalls, switches, load balancers, routers, and syslog servers to improve observability and security insights. Managed and provisioned infrastructure across on-premises, AWS, Azure, and GCP using Kubernetes, Docker, Jenkins, Git, GitHub Actions, GitLab CI/CD, Terraform, and Ansible. Proficient in Windows/Linux system administration and workflow automation with Python, Go, Node.js, Bash, and PowerShell. Expert in security investigation, developing strategic security ideas, and improving visibility through regex, XML, and actionable dashboards and alerts. Supported 10+ business units, enhancing observability and security posture. Seeking a Splunk Engineer/Admin or DevOps/DevSecOps role to strengthen observability, threat prevention, and data-driven security operations.
-</p>
- -->
+### 🚀 Senior Cloud DevOps / Platform Engineer
+- 6+ years experience across AWS, Azure & Kubernetes
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, Azure DevOps
+- DevSecOps: Vault, OWASP, SonarQube, Trivy
+- Observability: Splunk Architect, Prometheus, Grafana
+- Infrastructure as Code: Terraform, Ansible
 
 <p align="justify">
 ⚡ Senior Cloud DevOps Engineer with 6+ years of experience designing, deploying, and operating secure, scalable cloud and hybrid infrastructures. Proven expertise in building and automating CI/CD pipelines, containerized platforms, and cloud-native observability stacks across AWS, Azure, and GCP. Strong background in infrastructure as code (Terraform, Ansible), container orchestration (Kubernetes, Docker), and automation using Python, Go, Node.js, Bash, and PowerShell.
@@ -114,10 +103,10 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
 ### 🤝 Version Control & Collaboration
 `Git` • `GitHub` • `GitLab` • `Bitbucket` • `Code Reviews` • `Agile/Scrum`
 
-## Selected Personal Cloud & DevOps Projects (GitHub Portfolio)
+## 🏆 Selected Personal Cloud & DevOps Projects (GitHub Portfolio)
 Designed and implemented multiple end-to-end cloud, CI/CD, DevSecOps, observability, and secrets-management projects using AWS, Azure, Kubernetes, Jenkins, Azure DevOps, GitHub Actions, GitLab CI, HashiCorp Vault, and Splunk. All projects were independently built, deployed, secured, and documented to production standards.
 
-### 1 Jenkins-Driven End-to-End Cloud DevOps Mega Project (AWS EKS)
+### 1️⃣ Jenkins-Driven End-to-End Cloud DevOps Mega Project (AWS EKS)
 **Description:**  
 A **production-grade end-to-end Cloud DevOps implementation** centered around **Jenkins as the primary CI/CD engine**. This project demonstrates how Jenkins orchestrates **continuous integration, security scanning, artifact management, containerization, and continuous deployment** to a managed **AWS EKS Kubernetes cluster**.
 
