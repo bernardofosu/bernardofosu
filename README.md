@@ -5,7 +5,7 @@
 </h1>
 
 # My Titles
-Cloud DEVOPS Engineer, Splunk Administrator, Splunk Architect, Python and Nodejs Backend Developer
+Cloud DevOps / DevSecOps Engineer | Splunk Architect | Backend Developer (Python, Node.js) | GIS & Spatial Systems
 
 # 💫 About Me:
 <!--
@@ -27,26 +27,39 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
 
 ## 📫 How to reach me
 <div align="center"> 
- <a href="https://wa.me/+233-548-967-019">
-    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" />
- </a>
+  <!-- Phone -->
+  <a href="tel:+233548967019">
+    <img src="https://img.shields.io/badge/Phone-333333?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+
+  <!-- Gmail -->
   <a href="mailto:ofosubernard848@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="mailto:bernard.ofosu@swma.gov.gh">
-    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" />
-  </a>
-  <a href="https://linkedin.com/in/ofosu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://drive.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" />
-  </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/bernardofosu" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/233548967019" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/bernardofosu" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=2CA5E0" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bernard-ofosu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 <hr/>
+
 
 ## 🔭 Work & Collaboration
 
