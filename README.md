@@ -29,7 +29,7 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
 <div align="center"> 
   <!-- Phone -->
   <a href="tel:+233548967019">
-    <img src="https://img.shields.io/badge/Phone-333333?style=for-the-badge&logo=phone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phone-+233%20548%20967%20019-333333?style=for-the-badge" />
   </a>
 
   <!-- Gmail -->
@@ -37,9 +37,9 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/bernardofosu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bernard-ofosu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- WhatsApp -->
@@ -51,10 +51,10 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
   <a href="https://t.me/bernardofosu" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=2CA5E0" />
   </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/bernard-ofosu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+    <!-- GitHub -->
+  <a href="https://github.com/bernardofosu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
