@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Bernard+Ofosu!;" />
 </h1>
 
+# My Titles
+Cloud DEVOPS Engineer, Splunk Administrator, Splunk Architect, Python and Nodejs Backend Developer
 
 # 💫 About Me:
-
-Cloud DEVOPS Engineer, Splunk Administrator, Splunk Architect, Python and Nodejs Backend Developer
 <!--
 ### 🚀 Cloud DevOps / Platform Engineer
 - 6+ years experience across AWS, Azure & Kubernetes
