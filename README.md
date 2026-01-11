@@ -68,43 +68,29 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
 [![Udemy Certificate](https://img.shields.io/badge/Udemy-Python%20100%20Days%20of%20Code-blue?logo=udemy)](https://www.udemy.com/certificate/UC-edcf9729-6bfd-43ce-8816-04bfa40390cf/)
 
 [![Cribl Certificate](https://img.shields.io/badge/Cribl-Certified%20User-green?logo=checkmarx)](https://certifications.cribl.io/profile/ofosubernard852476/wallet)
-
 <hr/>
 
-## 🧰 Skills
-
-### 💻 Programming & Scripting
-`Python` • `Go (Golang)` • `Node.js` • `JavaScript` • `Bash` • `Shell` • `PowerShell`
-
-### ☁️ Cloud Platforms & Services
-`AWS` • `Azure` • `GCP` • `EC2` • `VPC` • `IAM` • `S3` • `RDS` • `EKS` • `AKS` • `CloudWatch` • `Azure Monitor`
-
-### 📦 Containers & Orchestration
-`Docker` • `Kubernetes` • `Helm` • `Kustomize` • `Container Security` • `Ingress Controllers`
-
-### 🏗️ Infrastructure as Code (IaC)
-`Terraform` • `Ansible` • `CloudFormation` • `ARM Templates` • `Modular IaC Design`
-
-### 🔁 CI/CD & Platform Engineering
-`Jenkins` • `GitHub Actions` • `GitLab CI/CD` • `CI/CD Pipelines` • `Release Automation` • `Pipeline Security`
-
-### 📊 Monitoring, Logging & Observability
-`Splunk` • `Prometheus` • `Grafana` • `ELK Stack` • `OpenTelemetry` • `Alerting & Dashboards`
-
-### 🤖 Automation & Workflow Orchestration
-`n8n` • `AI Automation` • `API Integrations` • `Event-driven Automation` • `Webhook Systems`
-
-### 🔐 Security & DevSecOps
-`IAM & RBAC` • `Secrets Management` • `Vault` • `Security Monitoring` • `Compliance Automation` • `Threat Detection`
-
-### 🌐 Networking & Systems
-`Linux` • `Windows Server` • `TCP/IP` • `DNS` • `Load Balancers` • `Firewalls` • `Syslog`
-
-### 🗄️ Databases & Data Stores
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Cloud Databases`
-
-### 🤝 Version Control & Collaboration
-`Git` • `GitHub` • `GitLab` • `Bitbucket` • `Code Reviews` • `Agile/Scrum`
+<div align="center"> 
+ <a href="https://wa.me/+233-548-967-019">
+    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" />
+ </a>
+  <a href="mailto:ofosubernard848@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="mailto:bernard.ofosu@swma.gov.gh">
+    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" />
+  </a>
+  <a href="https://linkedin.com/in/ofosu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://drive.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" />
+  </a>
+  <a href="https://github.com/bernardofosu" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+<hr/>
 
 ## 🏆 Selected Personal Cloud & DevOps Projects
 Designed and implemented multiple end-to-end cloud, CI/CD, DevSecOps, observability, and secrets-management projects using AWS, Azure, Kubernetes, Jenkins, Azure DevOps, GitHub Actions, GitLab CI, HashiCorp Vault, and Splunk. All projects were independently built, deployed, secured, and documented to production standards.
@@ -250,29 +236,41 @@ Kubernetes • Prometheus • Grafana • Helm • Alertmanager • Metrics & Mo
 **Repo / Documentation:**  
 - GitHub: (https://github.com/bernardofosu/AI-Agents---n8n-Automation-Masterclass---From-Zero-to-Production)
 
+## 🧰 Skills
 
+### 💻 Programming & Scripting
+`Python` • `Go (Golang)` • `Node.js` • `JavaScript` • `Bash` • `Shell` • `PowerShell`
 
-<div align="center"> 
- <a href="https://wa.me/+233-548-967-019">
-    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" />
- </a>
-  <a href="mailto:ofosubernard848@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="mailto:bernard.ofosu@swma.gov.gh">
-    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" />
-  </a>
-  <a href="https://linkedin.com/in/ofosu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://drive.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" />
-  </a>
-  <a href="https://github.com/bernardofosu" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-<hr/>
+### ☁️ Cloud Platforms & Services
+`AWS` • `Azure` • `GCP` • `EC2` • `VPC` • `IAM` • `S3` • `RDS` • `EKS` • `AKS` • `CloudWatch` • `Azure Monitor`
+
+### 📦 Containers & Orchestration
+`Docker` • `Kubernetes` • `Helm` • `Kustomize` • `Container Security` • `Ingress Controllers`
+
+### 🏗️ Infrastructure as Code (IaC)
+`Terraform` • `Ansible` • `CloudFormation` • `ARM Templates` • `Modular IaC Design`
+
+### 🔁 CI/CD & Platform Engineering
+`Jenkins` • `GitHub Actions` • `GitLab CI/CD` • `CI/CD Pipelines` • `Release Automation` • `Pipeline Security`
+
+### 📊 Monitoring, Logging & Observability
+`Splunk` • `Prometheus` • `Grafana` • `ELK Stack` • `OpenTelemetry` • `Alerting & Dashboards`
+
+### 🤖 Automation & Workflow Orchestration
+`n8n` • `AI Automation` • `API Integrations` • `Event-driven Automation` • `Webhook Systems`
+
+### 🔐 Security & DevSecOps
+`IAM & RBAC` • `Secrets Management` • `Vault` • `Security Monitoring` • `Compliance Automation` • `Threat Detection`
+
+### 🌐 Networking & Systems
+`Linux` • `Windows Server` • `TCP/IP` • `DNS` • `Load Balancers` • `Firewalls` • `Syslog`
+
+### 🗄️ Databases & Data Stores
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis` • `Cloud Databases`
+
+### 🤝 Version Control & Collaboration
+`Git` • `GitHub` • `GitLab` • `Bitbucket` • `Code Reviews` • `Agile/Scrum`
+
 
 <div align="center">
 <h1>💻 Tech Stack:</h1>
