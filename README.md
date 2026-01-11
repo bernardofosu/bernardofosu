@@ -3,9 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Bernard+Ofosu!;" />
 </h1>
-
-# My Titles
-Cloud DevOps / DevSecOps Engineer | Splunk Architect | Backend Developer (Python, Node.js) | GIS & Spatial Systems
+Cloud DevOps / DevSecOps Engineer | Splunk Architect | Backend Developer (Python & Node.js) | GIS & Spatial Systems
 
 # 💫 About Me:
 <!--
@@ -220,7 +218,7 @@ HashiCorp Vault • Jenkins • AWS EC2 • TLS (Let’s Encrypt / Certbot) • 
 **Repo / Documentation:**  
 - GitHub: https://github.com/bernardofosu/Jenkins-Crush-Course-2025
 
-### 9️⃣ End-to-End Kubernetes Observability Stack with Prometheus, Grafana & Alerting
+### 9️⃣ Kubernetes Metrics & Alerting (Prometheus/Grafana)
 **Description:**  
 A production-style **Kubernetes observability project** that implements full **metrics collection, visualization, and alerting** for containerized workloads. The project deploys **Prometheus and Grafana via Helm**, configures Kubernetes metrics scraping, and builds **custom dashboards and alerts** to monitor cluster health, node performance, application metrics, and resource utilization.
 
@@ -230,9 +228,9 @@ The setup demonstrates **real-world SRE and platform engineering practices**, in
 Kubernetes • Prometheus • Grafana • Helm • Alertmanager • Metrics & Monitoring • Observability • Linux • YAML • Cloud-Native Monitoring
 
 **Repo / Documentation:**  
-- GitHub: (your repo link)
+- GitHub: https://github.com/bernardofosu/Capstone-Ultimate-Mega-Project---All-Tools-Combined---End-to-End-Cloud-DevOps-Pipeline-
 
-### 9️⃣ End-to-End Kubernetes Observability Stack with Prometheus, Grafana & Alerting
+### 🔟 AI Agents & n8n Automation (Production Workflows)
 **Description:**  
 A production-style **Kubernetes observability project** that implements full **metrics collection, visualization, and alerting** for containerized workloads. The project deploys **Prometheus and Grafana via Helm**, configures Kubernetes metrics scraping, and builds **custom dashboards and alerts** to monitor cluster health, node performance, application metrics, and resource utilization.
 
