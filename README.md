@@ -25,6 +25,29 @@ Experienced in implementing end-to-end monitoring, logging, and alerting solutio
 Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline design with Jenkins, GitHub Actions, and GitLab CI/CD, cloud resource provisioning, and operational excellence. Adept at supporting multiple business units, improving uptime, accelerating deployments, and strengthening security posture through automation, observability, and data-driven insights. Seeking a Cloud DevOps Engineer / DevSecOps role to drive reliability, scalability, and security in modern cloud environments.
 </p>
 
+## 📫 How to reach me
+<div align="center"> 
+ <a href="https://wa.me/+233-548-967-019">
+    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" />
+ </a>
+  <a href="mailto:ofosubernard848@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="mailto:bernard.ofosu@swma.gov.gh">
+    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" />
+  </a>
+  <a href="https://linkedin.com/in/ofosu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://drive.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" />
+  </a>
+  <a href="https://github.com/bernardofosu" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+<hr/>
+
 ## 🔭 Work & Collaboration
 
 **🚀 I’m currently working on:**  
@@ -61,8 +84,6 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
 - I automate everything — and then **automate the automation** 😄⚙️
 
 
-📫 How to reach me **ofosubernard848@gmail.com/bernard.ofosu@swma.gov.gh** 🔗 [GitHub Portfolio](https://github.com/bernardofosu?tab=repositories) [Mobile Number](+233-548-967-019)(+233-548-967-019)
-
 ## 🎓 Certifications
 
 [![Udemy Certificate](https://img.shields.io/badge/Udemy-Python%20100%20Days%20of%20Code-blue?logo=udemy)](https://www.udemy.com/certificate/UC-edcf9729-6bfd-43ce-8816-04bfa40390cf/)
@@ -70,27 +91,6 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
 [![Cribl Certificate](https://img.shields.io/badge/Cribl-Certified%20User-green?logo=checkmarx)](https://certifications.cribl.io/profile/ofosubernard852476/wallet)
 <hr/>
 
-<div align="center"> 
- <a href="https://wa.me/+233-548-967-019">
-    <img src="https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green" />
- </a>
-  <a href="mailto:ofosubernard848@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="mailto:bernard.ofosu@swma.gov.gh">
-    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" />
-  </a>
-  <a href="https://linkedin.com/in/ofosu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://drive.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" />
-  </a>
-  <a href="https://github.com/bernardofosu" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-<hr/>
 
 ## 🏆 Selected Personal Cloud & DevOps Projects
 Designed and implemented multiple end-to-end cloud, CI/CD, DevSecOps, observability, and secrets-management projects using AWS, Azure, Kubernetes, Jenkins, Azure DevOps, GitHub Actions, GitLab CI, HashiCorp Vault, and Splunk. All projects were independently built, deployed, secured, and documented to production standards.
