@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Bernard+Ofosu!;" />
 </h1>
-Cloud DevOps / DevSecOps Engineer | Splunk Architect | Backend Developer (Python & Node.js) | GIS & Spatial Systems
+☁️🛡️Cloud DevOps / DevSecOps Engineer | 🧠 Splunk Architect | 💻 Backend Developer (Python & Node.js) | 🌍 GIS & Spatial Systems
 
 # 💫 About Me:
 <!--
