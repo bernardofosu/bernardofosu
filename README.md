@@ -51,11 +51,6 @@ Hands-on expertise in DevOps and DevSecOps practices, including secure pipeline 
   <a href="https://t.me/bernardofosu" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=2CA5E0" />
   </a>
-
-    <!-- GitHub -->
-  <a href="https://github.com/bernardofosu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 <hr/>
