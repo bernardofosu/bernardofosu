@@ -118,11 +118,47 @@ https://github.com/bernardofosu/AI-Agents---n8n-Automation-Masterclass---From-Ze
 
 ---
 
+## 🎓 Certifications
+
+[![Udemy Certificate](https://img.shields.io/badge/Udemy-Python%20100%20Days%20of%20Code-blue?logo=udemy)](https://www.udemy.com/certificate/UC-edcf9729-6bfd-43ce-8816-04bfa40390cf/)
+
+[![Cribl Certificate](https://img.shields.io/badge/Cribl-Certified%20User-green?logo=checkmarx)](https://certifications.cribl.io/profile/ofosubernard852476/wallet)
+
+<hr/>
+
 ## 🎓 Certifications & Training
 
-- DevOps & Cloud Engineering – Udemy
-- Observability & Logging – Cribl
-- Azure Administrator (AZ-104) – _In Progress_
+### ✅ Completed & Verified
+
+[![Udemy Certificate](https://img.shields.io/badge/Udemy-Python%20100%20Days%20of%20Code-blue?logo=udemy)](https://www.udemy.com/certificate/UC-edcf9729-6bfd-43ce-8816-04bfa40390cf/)
+
+[![Cribl Certificate](https://img.shields.io/badge/Cribl-Certified%20User-green?logo=checkmarx)](https://certifications.cribl.io/profile/ofosubernard852476/wallet)
+
+🎯 **DevOps & Cloud Engineering** – Udemy
+-  *Mastered Python by building 100 projects covering data science (NumPy, Pandas, Matplotlib), automation (subprocess, Invoke, Fabric, Paramiko), and backend web development (Flask, FastAPI, Django).*
+
+📊 **Observability & Logging (Certified User)** – Cribl
+
+---
+
+### 🚀 Advanced DevSecOps & Cloud Training
+
+- 🛠️ **Production-Grade DevSecOps & Cloud DevOps** – DevOpsShack  
+  _(Hands-on training covering CI/CD, Kubernetes, DevSecOps, Azure DevOps, AWS, and enterprise-grade projects)_
+
+- ☁️ **Azure Administrator (AZ-104)** – _In Progress_
+
+---
+
+### ♻️ Previously Earned (Legacy Certifications)
+
+> 🕰️ Earned earlier in my career, currently **not verifiable**, and **re-certification is planned**.
+
+- ☁️ **AWS Cloud Practitioner** _(Legacy – re-certification planned)_
+- 🔍 **Splunk Core Certified User** _(Legacy – re-certification planned)_
+- 📈 **Splunk Core Certified Power User** _(Legacy – re-certification planned)_
+- 🛡️ **Splunk Core Certified Admin** _(Legacy – re-certification planned)_
+
 
 ---
 
