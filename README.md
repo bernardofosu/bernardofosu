@@ -10,10 +10,25 @@
 
 ## 🚀 TL;DR
 
-Cloud DevOps / DevSecOps Engineer with **6+ years of experience** designing, deploying, and operating **production-grade cloud and hybrid infrastructures**.  
-Specialized in **CI/CD automation, Kubernetes platforms, observability, and security**, with strong hands-on expertise across **AWS, Azure, and GCP**.
+Cloud DevOps / DevSecOps Engineer with **6+ years of experience** designing,
+deploying, and operating **production-grade cloud & hybrid infrastructures**.
 
-**Core Focus:** Automation · Reliability · Security · Scalability
+🔧 Specialized in **CI/CD automation**, **Kubernetes platforms**, **observability**,
+and **security**, with strong hands-on expertise across **AWS ☁️**, **Azure ☁️**, and **GCP ☁️**.
+
+🤖 **Automation & IaC:**  
+Ansible 🔁 • Shell Scripting 🐚 • Python 🐍 • Go (Golang) ⚙️ • Terraform 🏗️
+
+🛠️ **CI/CD & Platform Tools:**  
+Kubernetes ☸️ • Jenkins ⚙️ • GitHub Actions 🐙 • GitLab CI/CD 🦊 •  
+Trivy 🛡️ • SonarQube 🔍 • Splunk 📊 • Prometheus 📈 • Grafana 📉
+
+💻 **Backend Development:**  
+Python (FastAPI, Flask) 🐍 • Node.js (Express) 🟢
+
+🎯 **Core Focus:**  
+Automation ⚡ • Reliability 🔁 • Security 🔐 • Scalability 📈
+
 
 ---
 
