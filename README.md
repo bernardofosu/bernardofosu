@@ -136,7 +136,7 @@ Azure DevOps (CI/CD) • Node.js • Azure App Service • Azure Cosmos DB (Mong
 
 **Repo / Documentation:**
 
-- GitHub: https://github.com/bernardofosu/AzureDevOps---Nodejs---MongoDB-App-Deployment-to-Azure-App-Service
+- https://github.com/bernardofosu/AzureDevOps---Node.js---MongoDB-App-Deployment-to-Azure-App-Service
 
 
 ---
