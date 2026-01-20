@@ -122,7 +122,7 @@ HashiCorp Vault • Jenkins • AWS EC2 • TLS (Let’s Encrypt) • DNS • Li
 https://github.com/bernardofosu/Jenkins-Crush-Course-2025
 
 
-### 5️⃣ Azure DevOps CI/CD for Node.js & MongoDB Deployment on Azure App Service
+### 6️⃣ Azure DevOps CI/CD for Node.js & MongoDB Deployment on Azure App Service
 
 **Description:**  
 A **production-style Azure DevOps CI/CD project** that automates the **build and deployment of a Node.js application backed by MongoDB (Azure Cosmos DB API)** to **Azure App Service**. This project demonstrates both **classic pipelines and YAML-based pipelines**, showcasing flexibility in Azure DevOps delivery models.
