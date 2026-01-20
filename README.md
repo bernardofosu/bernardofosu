@@ -53,7 +53,7 @@ Production-grade CI/CD platform centered on Jenkins, orchestrating build, test, 
 Jenkins • AWS (EKS, EC2, VPC, IAM, Route 53) • Terraform • Docker • Kubernetes • Helm • Argo CD • SonarQube • Trivy • Nexus • Prometheus • Grafana • GitOps • DevSecOps
 
 🔗 GitHub:  
-https://github.com/bernardofosu/Capstone-Ultimate-Mega-Project---All-Tools-Combined---End-to-End-Cloud-DevOps-Pipeline-
+https://github.com/bernardofosu/Capstone-Ultimate-Mega-Project---All-Tools-Combined--End-to-End-Cloud-DevOps-Pipeline-
 
 ---
 
