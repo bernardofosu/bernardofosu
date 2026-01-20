@@ -4,7 +4,7 @@
 
 ☁️🛡️ Cloud DevOps / DevSecOps Engineer | 🧠 Splunk Architect | 💻 Backend Developer (Python & Node.js)
 
-📍 Ghana | 🔗 https://linkedin.com/in/bernard-ofosu
+📍 Ghana  🌍nakodtech.xyz | 🔗 https://linkedin.com/in/bernard-ofosu
 
 ---
 
@@ -165,6 +165,46 @@ I’m open to **remote or international roles** in:
 - Cloud DevOps Engineering
 - DevSecOps & Platform Engineering
 - SRE & Observability Engineering
+
+<div align="center">
+<h1>💻 Tech Stack:</h1>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,aws,bootstrap,photoshop,html,css,vscode,github,figma,git,vim,anaconda,regex" />
+    <img src="https://skillicons.dev/icons?i=pycharm,gcp,nginx,latex,markdown,javascript,firebase,mongodb,c,mysql,pr,sublime,windows,apple" /><br>
+</div>
+
+<hr/>
+<h1 align="center">⚡ Stats ⚡</h1>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bernardofosu&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bernardofosu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=bernardofosu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=bernardofosu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://visitcount.itsvg.in/api?id=bernardofosu&icon=0&color=0)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 💻 Featured YouTube Videos
+
+<!-- prettier-ignore-start -->
+<!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=4XaWGlgihew">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4XaWGlgihew&title=Adobe+Photoshop+Tutorial+:+The+Basics+for+Beginners&lang=en&timestamp=1599696000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
+    <img src="https://ytcards.demolab.com/?id=1lXaKEy97qE&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=159&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="GitHub Star Swag Unboxing and Giveaways" title="GitHub Star Swag Unboxing and Giveaways">
+  </picture>
+</a>
+
 
 📫 **Contact:**  
 LinkedIn: https://linkedin.com/in/bernard-ofosu  
