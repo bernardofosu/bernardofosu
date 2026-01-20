@@ -17,14 +17,13 @@ deploying, and operating **production-grade cloud & hybrid infrastructures**.
 and **security**, with strong hands-on expertise across **AWS ☁️**, **Azure ☁️**, and **GCP ☁️**.
 
 🤖 **Automation & IaC:**  
-Ansible 🔁 • Shell Scripting 🐚 • Python 🐍 • Go (Golang) ⚙️ • Terraform 🏗️
+Ansible, Shell Scripting, Python,  Go (Golang), Terraform
 
 🛠️ **CI/CD & Platform Tools:**  
-Kubernetes ☸️ • Jenkins ⚙️ • GitHub Actions 🐙 • GitLab CI/CD 🦊 •  
-Trivy 🛡️ • SonarQube 🔍 • Splunk 📊 • Prometheus 📈 • Grafana 📉
+Kubernetes, Jenkins, GitHub Actions,  GitLab CI/CD, Trivy, SonarQube, Splunk, Prometheus, Grafana
 
 💻 **Backend Development:**  
-Python (FastAPI, Flask) 🐍 • Node.js (Express) 🟢
+Python (FastAPI, Flask),  Node.js (Express)
 
 🎯 **Core Focus:**  
 Automation ⚡ • Reliability 🔁 • Security 🔐 • Scalability 📈
