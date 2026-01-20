@@ -132,14 +132,6 @@ https://github.com/bernardofosu/AI-Agents---n8n-Automation-Masterclass---From-Ze
 
 ---
 
-## 🎓 Certifications
-
-[![Udemy Certificate](https://img.shields.io/badge/Udemy-Python%20100%20Days%20of%20Code-blue?logo=udemy)](https://www.udemy.com/certificate/UC-edcf9729-6bfd-43ce-8816-04bfa40390cf/)
-
-[![Cribl Certificate](https://img.shields.io/badge/Cribl-Certified%20User-green?logo=checkmarx)](https://certifications.cribl.io/profile/ofosubernard852476/wallet)
-
-<hr/>
-
 ## 🎓 Certifications & Training
 
 ### ✅ Completed & Verified
