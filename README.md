@@ -9,9 +9,7 @@
 ---
 
 ## 🚀 TL;DR
-
-Cloud DevOps / DevSecOps Engineer with **6+ years of experience** designing,
-deploying, and operating **production-grade cloud & hybrid infrastructures**.
+Cloud DevOps / DevSecOps Engineer with 6+ years of hands-on experience building and operating cloud-native infrastructure, CI/CD pipelines, and Kubernetes platforms across AWS, Azure, and GCP.
 
 🔧 Specialized in **CI/CD automation**, **Kubernetes platforms**, **observability**,
 and **security**, with strong hands-on expertise across **AWS ☁️**, **Azure ☁️**, and **GCP ☁️**.
